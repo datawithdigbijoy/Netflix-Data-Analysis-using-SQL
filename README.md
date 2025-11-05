@@ -5,6 +5,7 @@
 
 ## Overview
 **Database**: `Netflix_Data`
+
 In this project, SQL is used to perform a detailed analysis of Netflix’s movies and TV shows dataset to gain insights and solve business questions. The README outlines the project’s goals, challenges, analytical methods, insights, and final conclusions.
 
 
